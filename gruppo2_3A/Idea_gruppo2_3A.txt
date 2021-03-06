@@ -1,0 +1,10 @@
+
+Idea Gruppo 2  3^A info
+
+
+La nostra idea è quella di creare un software o un sito web che permetta ad uno studente di raccogliere gli appunti, compiti e tipo di materiale didattico per ogni materia.
+Il sito / software sarà diviso in varie sezioni, 1 per ogni materia dello studente.
+Questa cartella è a sua volta divisa in diverse sezioni, 1 per ogni argomento affrontato, e all'interno di ogni sezione dell'argomento si possono inserire degli appunti, come delle presentazioni, immagini, note o compiti.
+Il software permetterà anche allo studente di poter registrare la lezione di una determinata materia, e raccogliendo tutte le registrazioni all'interno di una cartella.
+Inoltre sarà possibile evidenziare o scrivere sulle immagini che sono state salvate all'interno del software.
+Infine sarà possibile pubblicare la propria cartella con gli appunti di un argomento, in modo tale che anche altre persone possano usufruire delle mappe concettuali, immagini ed appunti che noi abbiamo creato.
